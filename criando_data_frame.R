@@ -1,7 +1,7 @@
 
 # Criando conjunto de dados -------------------------------------------------------------------------------------------------------------
 
-AA <- c("Confere" ,"N", "N", "N", "Confere","N")
+WW <- c("Confere" ,"N", "N", "N", "Confere","N")
 JE <- c("N" ,"N", "Confere", "N", "N","Confere")
 MD <- c("N" ,"Confere", "N", "Confere", "N","N")
 
